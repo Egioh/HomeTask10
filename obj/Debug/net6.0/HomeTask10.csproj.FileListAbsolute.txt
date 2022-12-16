@@ -1,0 +1,15 @@
+C:\Users\Павел\Desktop\HomeTask10\bin\Debug\net6.0\HomeTask10.exe
+C:\Users\Павел\Desktop\HomeTask10\bin\Debug\net6.0\HomeTask10.deps.json
+C:\Users\Павел\Desktop\HomeTask10\bin\Debug\net6.0\HomeTask10.runtimeconfig.json
+C:\Users\Павел\Desktop\HomeTask10\bin\Debug\net6.0\HomeTask10.dll
+C:\Users\Павел\Desktop\HomeTask10\bin\Debug\net6.0\HomeTask10.pdb
+C:\Users\Павел\Desktop\HomeTask10\obj\Debug\net6.0\HomeTask10.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\HomeTask10\obj\Debug\net6.0\HomeTask10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\HomeTask10\obj\Debug\net6.0\HomeTask10.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\HomeTask10\obj\Debug\net6.0\HomeTask10.AssemblyInfo.cs
+C:\Users\Павел\Desktop\HomeTask10\obj\Debug\net6.0\HomeTask10.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\HomeTask10\obj\Debug\net6.0\HomeTask10.dll
+C:\Users\Павел\Desktop\HomeTask10\obj\Debug\net6.0\refint\HomeTask10.dll
+C:\Users\Павел\Desktop\HomeTask10\obj\Debug\net6.0\HomeTask10.pdb
+C:\Users\Павел\Desktop\HomeTask10\obj\Debug\net6.0\HomeTask10.genruntimeconfig.cache
+C:\Users\Павел\Desktop\HomeTask10\obj\Debug\net6.0\ref\HomeTask10.dll
